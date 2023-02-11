@@ -1,5 +1,5 @@
 ## Hi! there 👋
-### 🔭 I’m currently working on Cloud Engineer and DevOps
+### :smiling_imp:	 I’m currently working on Cloud Engineer and DevOps
 ![AWS](https://img.shields.io/badge/Amazon-_AWS-F2E307?style=for-the-badge&logo=amazon-aws&logoColor=white "AWS")
 ![Terraform](https://img.shields.io/badge/terraform-BD00FF.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-00B8FF.svg?style=for-the-badge&logo=docker&logoColor=white)
