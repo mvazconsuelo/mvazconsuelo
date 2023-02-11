@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://raw.githubusercontent.com/mvazconsuelo/mvazconsuelo/main/banner.gif" align="center" style="width: 100%" />
-</div>  
-  
 ## Hi! there 👋
 ### 🔭 I’m currently working on Cloud Engineer and DevOps
 ![AWS](https://img.shields.io/badge/Amazon-_AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white "AWS")
