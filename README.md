@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Cloud Engineer and DevOps
-- 🌱 I’m currently learning Terraform, K8s and Python
+- 🌱 I’m currently learning Terraform :heart: , Docker :whale: and Python :snake:
 <!--
 **mvazconsuelo/mvazconsuelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
