@@ -13,11 +13,11 @@ Ahora mismo estoy metido en Kubernetes y Docker. Si quieres hablar de AWS, Terra
 ![Python](https://img.shields.io/badge/python-024059?style=flat-square&logo=python&logoColor=F2CC0F "Python")
 ![Linux](https://img.shields.io/badge/linux-00B8FF.svg?style=flat-square&logo=linux&logoColor=white)
 
-### Números
+### Proyectos
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=mvazconsuelo&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00B8FF&icon_color=BD00FF&text_color=c9d1d9" alt="GitHub stats" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvazconsuelo&layout=compact&hide_border=true&bg_color=0d1117&title_color=00B8FF&text_color=c9d1d9" alt="Top languages" />
-
+- [SmartLink](https://github.com/mvazconsuelo/SmartLink): Python, mi proyecto más activo ahora mismo.
+- [greengrass-iot](https://github.com/mvazconsuelo/greengrass-iot): Python, IoT con AWS Greengrass.
+- [amplify](https://github.com/mvazconsuelo/amplify): HTML, pruebas con AWS Amplify.
 ### Contacto
 
 [vazconsuelomauricio@gmail.com](mailto:vazconsuelomauricio@gmail.com)
