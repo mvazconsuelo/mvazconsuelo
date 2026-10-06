@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,2,24&height=90&text=Mauricio%20Vazconsuelo&fontSize=32&fontColor=ffffff&fontAlign=50&fontAlignY=50" width="100%" alt="Mauricio Vazconsuelo" />
 
-Cloud Engineer / DevOps. Me dedico a montar y automatizar infraestructura en la nube con código.
+Cloud Engineer / DevOps. I build and automate cloud infrastructure with code.
 
-Ahora mismo estoy metido en Kubernetes y Docker. Si quieres hablar de AWS, Terraform o Python, escríbeme.
+Right now I'm digging into Kubernetes and Docker. If you want to talk about AWS, Terraform or Python, get in touch.
 
 ### Stack
 
@@ -13,11 +13,12 @@ Ahora mismo estoy metido en Kubernetes y Docker. Si quieres hablar de AWS, Terra
 ![Python](https://img.shields.io/badge/python-024059?style=flat-square&logo=python&logoColor=F2CC0F "Python")
 ![Linux](https://img.shields.io/badge/linux-00B8FF.svg?style=flat-square&logo=linux&logoColor=white)
 
-### Proyectos
+### Projects
 
-- [SmartLink](https://github.com/mvazconsuelo/SmartLink): Python, mi proyecto más activo ahora mismo.
-- [greengrass-iot](https://github.com/mvazconsuelo/greengrass-iot): Python, IoT con AWS Greengrass.
-- [amplify](https://github.com/mvazconsuelo/amplify): HTML, pruebas con AWS Amplify.
-### Contacto
+- [SmartLink](https://github.com/mvazconsuelo/SmartLink): Python, my most active project right now.
+- [greengrass-iot](https://github.com/mvazconsuelo/greengrass-iot): Python, IoT with AWS Greengrass.
+- [amplify](https://github.com/mvazconsuelo/amplify): HTML, experiments with AWS Amplify.
+
+### Contact
 
 [vazconsuelomauricio@gmail.com](mailto:vazconsuelomauricio@gmail.com)
