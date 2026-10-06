@@ -12,6 +12,8 @@ Right now I'm digging into Kubernetes and Docker. If you want to talk about AWS,
 ![Kubernetes](https://img.shields.io/badge/kubernetes-BD00FF.svg?style=flat-square&logo=kubernetes&logoColor=white)
 ![Python](https://img.shields.io/badge/python-024059?style=flat-square&logo=python&logoColor=F2CC0F "Python")
 ![Linux](https://img.shields.io/badge/linux-00B8FF.svg?style=flat-square&logo=linux&logoColor=white)
+![Claude](https://img.shields.io/badge/claude-BD00FF.svg?style=flat-square&logo=claude&logoColor=white)
+![Ollama](https://img.shields.io/badge/ollama-024059?style=flat-square&logo=ollama&logoColor=white)
 
 ### Projects
 
