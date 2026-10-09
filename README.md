@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,2,24&height=90&text=Mauricio%20Vazconsuelo&fontSize=32&fontColor=ffffff&fontAlign=50&fontAlignY=50" width="100%" alt="Mauricio Vazconsuelo" />
+## Hi, I am Mauricio Vazconsuelo
 
 Cloud Engineer / DevOps. I build and automate cloud infrastructure with code.
 
@@ -21,6 +21,12 @@ Right now I'm digging into Kubernetes and Docker. If you want to talk about AWS,
 - [greengrass-iot](https://github.com/mvazconsuelo/greengrass-iot): Python, IoT with AWS Greengrass.
 - [amplify](https://github.com/mvazconsuelo/amplify): HTML, experiments with AWS Amplify.
 
+### Certifications
+
+[![AWS Certification](https://img.shields.io/badge/AWS_Certification-EXPIRED-8b949e?style=flat-square&logo=amazon-aws&logoColor=F2E307&labelColor=0d1117)](https://cp.certmetrics.com/amazon/en/public/verify/credential/1GSR0T82QME41V3E)
+
+Earned and passed, currently expired. The credential can be verified on AWS Certmetrics.
+
 ### Contact
 
-[vazconsuelomauricio@gmail.com](mailto:vazconsuelomauricio@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/mauriciovazconsuelo/) · [vazconsuelomauricio@gmail.com](mailto:vazconsuelomauricio@gmail.com)
