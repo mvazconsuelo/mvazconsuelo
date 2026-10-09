@@ -15,6 +15,7 @@ Right now I'm digging into Kubernetes and Docker. If you want to talk about AWS,
 ![Claude](https://img.shields.io/badge/claude-BD00FF.svg?style=flat-square&logo=claude&logoColor=white)
 ![Ollama](https://img.shields.io/badge/ollama-024059?style=flat-square&logo=ollama&logoColor=white)
 
+### Projects
 
 - [SmartLink](https://github.com/mvazconsuelo/SmartLink): Python, my most active project right now.
 - [greengrass-iot](https://github.com/mvazconsuelo/greengrass-iot): Python, IoT with AWS Greengrass.
