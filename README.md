@@ -15,12 +15,6 @@ Right now I'm digging into Kubernetes and Docker. If you want to talk about AWS,
 ![Claude](https://img.shields.io/badge/claude-BD00FF.svg?style=flat-square&logo=claude&logoColor=white)
 ![Ollama](https://img.shields.io/badge/ollama-024059?style=flat-square&logo=ollama&logoColor=white)
 
-### Projects
-
-- [SmartLink](https://github.com/mvazconsuelo/SmartLink): Python, my most active project right now.
-- [greengrass-iot](https://github.com/mvazconsuelo/greengrass-iot): Python, IoT with AWS Greengrass.
-- [amplify](https://github.com/mvazconsuelo/amplify): HTML, experiments with AWS Amplify.
-
 ### Certifications
 
 [![AWS Certified Developer - Associate](https://img.shields.io/badge/AWS_Certified_Developer_--_Associate-EXPIRED-8b949e?style=flat-square&logo=amazon-aws&logoColor=F2E307&labelColor=0d1117)](https://cp.certmetrics.com/amazon/en/public/verify/credential/1GSR0T82QME41V3E)
@@ -30,4 +24,4 @@ Earned and passed, currently expired. Both credentials can be verified on AWS Ce
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/mauriciovazconsuelo/) · [vazconsuelomauricio@gmail.com](mailto:vazconsuelomauricio@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/mauriciovazconsuelo/)
