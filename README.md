@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,2,24&height=90&text=Mauricio%20Vazconsuelo&fontSize=32&fontColor=ffffff&fontAlign=50&fontAlignY=50" width="100%" alt="Mauricio Vazconsuelo" />
+👋 Hi, I'm Mauricio Vazconsuelo.
 
 Cloud Engineer / DevOps. I build and automate cloud infrastructure with code.
 
