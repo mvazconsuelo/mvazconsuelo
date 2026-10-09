@@ -23,9 +23,10 @@ Right now I'm digging into Kubernetes and Docker. If you want to talk about AWS,
 
 ### Certifications
 
-[![AWS Certification](https://img.shields.io/badge/AWS_Certification-EXPIRED-8b949e?style=flat-square&logo=amazon-aws&logoColor=F2E307&labelColor=0d1117)](https://cp.certmetrics.com/amazon/en/public/verify/credential/1GSR0T82QME41V3E)
+[![AWS Certification 1](https://img.shields.io/badge/AWS_Certification_1-EXPIRED-8b949e?style=flat-square&logo=amazon-aws&logoColor=F2E307&labelColor=0d1117)](https://cp.certmetrics.com/amazon/en/public/verify/credential/1GSR0T82QME41V3E)
+[![AWS Certification 2](https://img.shields.io/badge/AWS_Certification_2-EXPIRED-8b949e?style=flat-square&logo=amazon-aws&logoColor=F2E307&labelColor=0d1117)](https://cp.certmetrics.com/amazon/en/public/verify/credential/L1J2WJNLGMF1QTW9)
 
-Earned and passed, currently expired. The credential can be verified on AWS Certmetrics.
+Earned and passed, currently expired. Both credentials can be verified on AWS Certmetrics.
 
 ### Contact
 
